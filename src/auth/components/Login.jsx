@@ -17,7 +17,7 @@ export default function Login() {
           type='submit'
           variant='outlined'
           color='primary'>
-          Google
+          Login with Google
         </Button>
       </Box>
     </Grid>
